@@ -13,7 +13,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 
 SEED = 42
-UNCERTAIN_BELOW = 0.65
+UNCERTAIN_BELOW = 0.45
 IRIS_FEATURES = ["sepal_length", "sepal_width", "petal_length", "petal_width"]
 
 # ---------------------------------------------------------------- sentiment (tiny demo data)
